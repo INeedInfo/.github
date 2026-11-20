@@ -14,9 +14,10 @@ Setting up Claude for the long haul: five Claude plugins that bring IT service m
 
 ## How we work
 
-- Mehmet decides what gets built and approves every change that touches a machine.
-- Claude does the writing. A separate Claude instance that has not seen the work reviews it.
-- A failed review blocks the release.
+- Mehmet decides what gets built and designs it: what each tool does and where it stops to ask.
+- Claude writes the code and the docs, and lays out the options when a design question comes up.
+- A separate Claude instance that has not seen the work reviews it. A failed review blocks the release.
+- Nothing changes on a machine without Mehmet's approval.
 
 ## Contact
 
