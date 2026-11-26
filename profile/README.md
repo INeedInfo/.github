@@ -1,16 +1,27 @@
 # INeedInfo
 
-**Tools that keep the human in the loop.**
+**We needed it, so we built it.**
 
-INeedInfo is a team of two: Mehmet Kemal Artan and Claude. We build tools for long-term work with an AI assistant: nothing lost between sessions, and nothing risky run without a person's say.
+INeedInfo is a team of two: Mehmet Kemal Artan and Claude. We make small, useful tools for problems we ran into ourselves.
 
-## Jidoka Workbench
+## Projects
 
-*The assistant runs. You decide.*
+### Jidoka Workbench
 
-Setting up Claude for the long haul: five Claude plugins that bring IT service management practice to a human + AI team. Session handovers, approval cards before risky commands, change control with backups and checksums, versioned instructions and memory snapshots, a job-search pipeline and a weekly review. Everything lives in a Markdown vault you own.
+*Setting up Claude for the long haul.* Five Claude plugins that bring IT service management practice to a human + AI team. Session handovers, approval cards before risky commands, change control with backups and checksums, versioned instructions and memory snapshots, a job-search pipeline and a weekly review. Everything lives in a Markdown vault you own. *The assistant runs. You decide.*
 
 **Status:** work in progress. The repository opens when the independent security review passes.
+
+### Varde
+
+A terminal guide. As you type, it suggests commands and explains each one, in your language, so a first command and a thousandth command both come easier. Varde is Norwegian for cairn, the pile of stones that marks a trail: each marker points to the next one, and you do the walking.
+
+**Status:** in development.
+
+## What we hold to
+
+- **Keep the human in the loop.** Our tools suggest, explain and ask. People decide, and nothing risky runs without their say.
+- **Your data and your machine stay yours.** Plain files you own, no telemetry, and every install can be undone.
 
 ## How we work
 
@@ -21,7 +32,7 @@ Setting up Claude for the long haul: five Claude plugins that bring IT service m
 
 ## Contact
 
-Questions and bug reports: Issues on the repository, once it is open.
+Questions and bug reports: Issues on the repository of the project concerned.
 
 ---
 
