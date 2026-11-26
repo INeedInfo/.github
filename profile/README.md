@@ -14,7 +14,7 @@ INeedInfo is a team of two: Mehmet Kemal Artan and Claude. We make small, useful
 
 ### Varde
 
-A terminal guide. As you type, it suggests commands and explains each one, in your language, so a first command and a thousandth command both come easier. Varde is Norwegian for cairn, the pile of stones that marks a trail: each marker points to the next one, and you do the walking.
+*Markers for your terminal.* A terminal guide. As you type, it suggests commands and explains each one, in your language, so a first command and a thousandth command both come easier. Varde is Norwegian for cairn, the pile of stones that marks a trail: each marker points to the next one, and you do the walking.
 
 **Status:** in development.
 
