@@ -34,6 +34,8 @@ A terminal guide. As you type, it suggests commands and explains each one, in yo
 
 Questions and bug reports: Issues on the repository of the project concerned.
 
+Everything else: info.ineedinfo@proton.me
+
 ---
 
 INeedInfo is an independent project, not affiliated with Anthropic. Claude is a trademark of Anthropic.
