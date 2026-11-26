@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
-  <img alt="INeedInfo" src="logo-light.svg" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="ineedinfo-logo-light-text.svg">
+  <img alt="INeedInfo" src="ineedinfo-logo-dark-text.svg" width="360">
 </picture>
 
 **We needed it, so we built it.**
